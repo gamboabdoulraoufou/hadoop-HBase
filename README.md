@@ -12,3 +12,6 @@ _HBase VS HDFS:_
 - HDFS have high latency batch processing -> HBase have low latency access to single rows from billions of records
 - HDFS have sequential access of data only -> HBase internally uses Hash tables and provides random access
 
+When use HBase?  
+when random, real-time read/write access to Big Data is needed.
+
