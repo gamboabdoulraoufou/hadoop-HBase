@@ -4,7 +4,7 @@ In this post, I will talk about Hbase. I will cover the following topics:
 - HBase overview
 - j
 
-**HBase overview**
+**HBase overview**  
 _HBase_ is an open source, non-relational, distributed database modeled after Google's BigTable and written in Java.
 
 _HBase VS HDFS:_   
